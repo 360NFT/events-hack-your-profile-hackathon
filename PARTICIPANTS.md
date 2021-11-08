@@ -15,3 +15,5 @@ Example listing:
 - Project: GreenZone - NotForThe💰, Team: [@ClaudioZone](https://github.com/claudioZone), [@ankitkumar9018](https://github.com/ankitkumar9018)
 - Project: Yeeldz, Team: [@visse509](https://github.com/visse509), [@vexkiddy](https://github.com/vexkiddy)
 - Project: Nomad, Team: [Dan](https://github.com/dan-nolan), Derek (Designer)
+- Project: 360NFT, Team: [Trapchain](https://github.com/casmirconsensys),Casmir Developer
+- 
